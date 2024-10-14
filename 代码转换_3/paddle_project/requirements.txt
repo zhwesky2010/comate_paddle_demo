@@ -1,0 +1,9 @@
+tqdm
+numpy
+paddlepaddle-gpu==1.0.1
+pyyaml
+librosa
+mir_eval
+matplotlib
+tensorboardX
+Pillow
